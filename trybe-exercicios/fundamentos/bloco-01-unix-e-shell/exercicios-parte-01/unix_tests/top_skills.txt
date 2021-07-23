@@ -1,0 +1,7 @@
+java
+linux
+pyton
+script
+sql
+testando tres palavras
+Unix
