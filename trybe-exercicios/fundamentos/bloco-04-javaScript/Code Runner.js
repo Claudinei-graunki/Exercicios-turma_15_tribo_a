@@ -19,3 +19,18 @@
 // };
 
 //Exercício 03
+
+// let n1 = 80;
+// let n2 = 40;
+// let n3 = 60;
+
+// if (n1 > n2 && n1 > n3) {
+//     console.log(n1);
+// } else if (n2 > n1 && n2 >n3) { 
+//     console.log (n2);
+// } else {
+//     console.log (n3);
+// }
+
+// Exercício 04
+
